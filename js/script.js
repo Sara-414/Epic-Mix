@@ -1,5 +1,5 @@
 const epicMix = [
-  "Red Eyes",
+  "I Don't Wanna Wait",
   "Do You Realize?",
   "Space Song",
   "Heavy Balloon",
@@ -8,10 +8,10 @@ const epicMix = [
   "For Sure",
   "Never Tear Us Apart",
   "Johnny and Mary",
-  "Nothing Compares 2 U",
+  "Mandinka",
   "Try a Little Tenderness",
   "Baby Girl",
-  "I Found Someone"
+  "I Found Someone",
 ];
 
 const mixList = document.querySelector(".mix");
